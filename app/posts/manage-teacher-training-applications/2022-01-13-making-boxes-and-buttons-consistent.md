@@ -16,6 +16,7 @@ Rules going forward:
 - use boxes for content that sits above form controls to give users additional context of what they’re doing
 - use warning text if users need to know certain details due to the action they’re about to take
 - button text should just be the action
+- use a caption when the h1 doesn't help
 
 ## What we changed
 
